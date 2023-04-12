@@ -5,12 +5,14 @@ table,th,td{
 thead{
     text-align: left;
     background-color:#c0504e;
+	color:white;
 }
 .a{
     text-align: right;
 }
 #waist{
     background-color: #da9695;
+	color:white;
 }
 #chest{
     background-color:#f1dcdb ;
